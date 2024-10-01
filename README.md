@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# InterPress Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React.js x MokkyDev
+
+## API Data
+
+API Link: https://c4defa9cae7f8319.mokky.dev/schedule
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
